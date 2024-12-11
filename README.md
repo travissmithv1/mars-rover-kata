@@ -4,7 +4,7 @@ This code kata helps engineers practice skills related to SOLID Principles, TDD,
 
 ### Your Task
 
-You’re part of the team that explores Mars by sending remotely controlled vehicles to the surface of the planet. Develop an code and tests that translates the commands sent from earth to instructions that are understood by the rover.
+You’re part of the team that explores Mars by sending remotely controlled vehicles to the surface of the planet. Develop code and tests that translate the commands sent from earth to instructions that are understood by the rover.
 
 ### Requirements
 * You are given the initial starting point (x,y) of a rover and the direction (N,S,E,W) it is facing.
